@@ -8,3 +8,11 @@ function forLoop(array){
 }
 return array
 }
+
+function whileLoop(num){
+  while (num<0){
+    --num;
+    console.log(num)
+  }
+  return "done"
+}
