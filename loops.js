@@ -20,3 +20,8 @@ function whileLoop(num){
 function doWhileLoop(n){
   
 }
+
+function incrementVariable() {
+  i = i + 1;
+  return i;
+}
